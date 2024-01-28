@@ -1,0 +1,11 @@
+#include <conio.h> 
+#include <stdio.h> 
+
+int main() 
+{ 
+	printf("Enter any character: "); 
+
+	getche(); 
+	return 0; 
+}
+

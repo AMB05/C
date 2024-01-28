@@ -1,0 +1,1 @@
+Usage: %s <angka1> <angka2>\n", argv[0
